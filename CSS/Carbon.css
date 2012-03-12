@@ -1,0 +1,162 @@
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+ol,
+ul,
+li,
+img {
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+html * {
+  font-family: "Helvetica Neue", sans-serif;
+  font-size: 16px;
+  line-height: 1.2em;
+}
+body {
+  min-width: 32em;
+  max-width: 52em;
+  margin: 40px 70px;
+}
+p {
+  font-weight: lighter;
+  margin-bottom: 20px;
+}
+strong {
+  font-weight: bold;
+}
+ol, ul {
+  margin-left: 4em;
+  margin-bottom: 0.2px;
+}
+li {
+  margin-bottom: 0.2em;
+  font-weight: lighter;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Century Gothic", sans-serif;
+  font-weight: lighter;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+h1 {
+  font-size: 2.5em;
+  line-height: 1.5em;
+}
+h2 {
+  font-size: 2.0em;
+  line-height: 1.5em;
+}
+h3 {
+  font-size: 1.5em;
+  line-height: 1.3em;
+}
+h4 {
+  font-size: 1.2em;
+  line-height: 1em;
+}
+h5 {
+  font-size: 1.0em;
+  line-height: 1em;
+}
+h6 {
+  font-size: 0.9em;
+  line-height: 1em;
+}
+img {
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-weight: bold;
+  border-bottom: 2px solid;
+}
+h2 {
+  border-bottom: 1px solid;
+}
+h3 {
+  border-bottom: 1px dashed;
+}
+h4,
+h5,
+h6 {
+  border-bottom: none;
+}
+
+h1 img,
+h2 img,
+h3 img,
+h4 img,
+h5 img,
+h6 img,
+p img {
+  margin-bottom: 0;
+}
+pre {
+  margin-bottom: 20px;
+}
+pre, code {
+  font-family: monospace;
+}
+pre {
+  white-space: pre;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  padding: 15px;
+}
+
+html * {
+  color: #657b83;
+}
+html body {
+  background-color: #fdf6e3;
+}
+html h1,
+html h2,
+html h3,
+html h4,
+html h5,
+html h6 {
+  color: #586e75;
+  border-color: #657b83;
+}
+html a, html a:active, html a:visited {
+  color: #586e75;
+}
+html a:hover {
+  background-color: #eee8d5;
+}
+html pre {
+  color: #586e75;
+  background-color: #eee8d5;
+}
+html a,
+html a:active,
+html a:visited,
+html code.url {
+  color: #b58900;
+}
+html h1 {
+  color: #b58900;
+}
+html h2,
+html h3,
+html h4,
+html h5,
+html h6 {
+  color: #b58900;
+}
