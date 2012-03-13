@@ -110,7 +110,8 @@ pre {
   margin-bottom: 20px;
 }
 pre, code {
-  font-family: monospace;
+  font-family: "Courier", monospace;
+  font-size: 0.9em;
 }
 pre {
   white-space: pre;
