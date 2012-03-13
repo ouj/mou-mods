@@ -1,0 +1,154 @@
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+ol,
+ul,
+li,
+img {
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+html * {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.2em;
+  color: #323232;
+}
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background: #e6e8ed url(http://i.imgur.com/rBjUa.png);
+  min-width: 32em;
+  max-width: 52em;
+  margin: 40px 70px;
+  text-shadow: 0 1px 0 #cccccc;
+}
+p {
+  font-weight: lighter;
+  margin-bottom: 20px;
+}
+strong {
+  font-weight: bold;
+}
+ol, ul {
+  margin-left: 4em;
+  margin-bottom: 0.2px;
+}
+li {
+  margin-bottom: 0.2em;
+  font-weight: lighter;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Century Gothic", sans-serif;
+  font-weight: lighter;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+h1 {
+  font-size: 2.5em;
+  line-height: 1.5em;
+}
+h2 {
+  font-size: 2.0em;
+  line-height: 1.5em;
+}
+h3 {
+  font-size: 1.5em;
+  line-height: 1.3em;
+}
+h4 {
+  font-size: 1.2em;
+  line-height: 1em;
+}
+h5 {
+  font-size: 1.0em;
+  line-height: 1em;
+}
+h6 {
+  font-size: 0.9em;
+  line-height: 1em;
+}
+img {
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-weight: bold;
+  border-bottom: 2px solid;
+}
+h2 {
+  border-bottom: 1px solid;
+}
+h3 {
+  border-bottom: 1px dashed;
+}
+h4,
+h5,
+h6 {
+  border-bottom: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #334536;
+  border-color: #657b83;
+}
+
+
+h1 img,
+h2 img,
+h3 img,
+h4 img,
+h5 img,
+h6 img,
+p img {
+  margin-bottom: 0;
+}
+
+code {
+  font-family: monospace;
+  font-size: 0.9em;
+  text-shadow: 0 1px 0 #cccccc;
+}
+pre {
+  font-family: monospace;
+  font-size: 0.9em;
+  margin-bottom: 20px;
+  white-space: pre;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  padding: 15px;
+}
+
+html a:hover {
+  background-color: #eedddd;
+}
+html pre {
+  color: #dddddd;
+  background-color: #dddddd;
+}
+html a,
+html a:active,
+html a:visited,
+html code.url {
+  color: #c0552b;
+}
+
